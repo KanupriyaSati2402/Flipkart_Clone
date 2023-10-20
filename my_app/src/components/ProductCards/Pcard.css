@@ -1,0 +1,21 @@
+.P_card{
+    height: 100px;
+    width: 100px;
+    display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+   
+}
+
+.P_card>img{
+    width: 100px;
+}
+.P_card>img:hover{
+   width: 110px;
+}
+.P_card>p{
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold
+}

@@ -1,0 +1,19 @@
+.single_category{
+    height: 100px;
+     width: 100px;
+    
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+ 
+ }
+ 
+ .single_category>img{
+     width: 70px;
+ }
+ .single_category>p{
+    text-align: center;
+     font-size: 12px;
+     font-weight: bold;
+ }
